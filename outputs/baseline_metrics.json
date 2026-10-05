@@ -1,0 +1,145 @@
+{
+  "overall": {
+    "subtask1_macro_f1": 0.7686432604104836,
+    "subtask1_f1_pos": 0.769521750878141,
+    "subtask1_f1_neg": 0.767764769942826,
+    "subtask1_binary_f1": 0.769521750878141,
+    "subtask2_political_macro_f1": 0.799707016050027,
+    "subtask2_political_f1": 0.7205024674742037,
+    "subtask2_racial/ethnic_macro_f1": 0.7486202225215661,
+    "subtask2_racial/ethnic_f1": 0.5968514715947981,
+    "subtask2_religious_macro_f1": 0.7821491665874449,
+    "subtask2_religious_f1": 0.6199575371549894,
+    "subtask2_gender/sexual_macro_f1": 0.7131681359953563,
+    "subtask2_gender/sexual_f1": 0.5030425963488844,
+    "subtask2_other_macro_f1": 0.7472585950634731,
+    "subtask2_other_f1": 0.6041275797373359,
+    "subtask2_macro_f1": 0.7581806272435735,
+    "subtask3_stereotype_macro_f1": 0.7447656639898371,
+    "subtask3_stereotype_f1": 0.6738351254480287,
+    "subtask3_vilification_macro_f1": 0.7495719253608688,
+    "subtask3_vilification_f1": 0.6710650329877474,
+    "subtask3_dehumanization_macro_f1": 0.6693766620289909,
+    "subtask3_dehumanization_f1": 0.44421906693711966,
+    "subtask3_extreme_language_macro_f1": 0.6920430053890158,
+    "subtask3_extreme_language_f1": 0.5477784540474742,
+    "subtask3_lack_of_empathy_macro_f1": 0.690032808551091,
+    "subtask3_lack_of_empathy_f1": 0.5266757865937073,
+    "subtask3_invalidation_macro_f1": 0.7123249532089311,
+    "subtask3_invalidation_f1": 0.5451737451737452,
+    "subtask3_macro_f1": 0.7096858364214557,
+    "overall_mean_macro_f1": 0.7455032413585042
+  },
+  "per_language": {
+    "amh": {
+      "subtask1_macro_f1": 0.6615418526478206,
+      "subtask2_macro_f1": 0.5870672561642306,
+      "subtask3_macro_f1": 0.5977458537175505
+    },
+    "arb": {
+      "subtask1_macro_f1": 0.7047175305765871,
+      "subtask2_macro_f1": 0.6610691789500429,
+      "subtask3_macro_f1": 0.6345118091440373
+    },
+    "ben": {
+      "subtask1_macro_f1": 0.7926619828259173,
+      "subtask2_macro_f1": 0.5897651507369213,
+      "subtask3_macro_f1": 0.5457516859760251
+    },
+    "deu": {
+      "subtask1_macro_f1": 0.6613078252481814,
+      "subtask2_macro_f1": 0.6457692904519614,
+      "subtask3_macro_f1": 0.5865977992318117
+    },
+    "eng": {
+      "subtask1_macro_f1": 0.7001691119338178,
+      "subtask2_macro_f1": 0.6354466871262504,
+      "subtask3_macro_f1": 0.6205355552228863
+    },
+    "fas": {
+      "subtask1_macro_f1": 0.8670291410311441,
+      "subtask2_macro_f1": 0.7416203645934927,
+      "subtask3_macro_f1": 0.6194156359216657
+    },
+    "hau": {
+      "subtask1_macro_f1": 0.7399714254313661,
+      "subtask2_macro_f1": 0.6314895517938661,
+      "subtask3_macro_f1": 0.5920113125961877
+    },
+    "hin": {
+      "subtask1_macro_f1": 0.7121848739495799,
+      "subtask2_macro_f1": 0.7597696757184738,
+      "subtask3_macro_f1": 0.6618886107688957
+    },
+    "ita": {
+      "subtask1_macro_f1": 0.6607493488278902,
+      "subtask2_macro_f1": 0.8649767470378447,
+      "subtask3_macro_f1": null
+    },
+    "khm": {
+      "subtask1_macro_f1": 0.5350140056022409,
+      "subtask2_macro_f1": 0.7184120265958092,
+      "subtask3_macro_f1": 0.5485424346532498
+    },
+    "mya": {
+      "subtask1_macro_f1": 0.7768780926675664,
+      "subtask2_macro_f1": 0.6505144018666271,
+      "subtask3_macro_f1": null
+    },
+    "nep": {
+      "subtask1_macro_f1": 0.8299829982998299,
+      "subtask2_macro_f1": 0.8093009719346416,
+      "subtask3_macro_f1": 0.7530184812220978
+    },
+    "ori": {
+      "subtask1_macro_f1": 0.6623211446740859,
+      "subtask2_macro_f1": 0.6909285233644165,
+      "subtask3_macro_f1": 0.5897389430321219
+    },
+    "pan": {
+      "subtask1_macro_f1": 0.719551282051282,
+      "subtask2_macro_f1": 0.5183410698146734,
+      "subtask3_macro_f1": 0.5999804415580683
+    },
+    "pol": {
+      "subtask1_macro_f1": 0.7109311740890689,
+      "subtask2_macro_f1": 0.6780232753378316,
+      "subtask3_macro_f1": null
+    },
+    "rus": {
+      "subtask1_macro_f1": 0.5573579304495335,
+      "subtask2_macro_f1": 0.6948674880564667,
+      "subtask3_macro_f1": null
+    },
+    "spa": {
+      "subtask1_macro_f1": 0.6537314531865542,
+      "subtask2_macro_f1": 0.7203718898522332,
+      "subtask3_macro_f1": 0.6461388385084087
+    },
+    "swa": {
+      "subtask1_macro_f1": 0.7963208035706947,
+      "subtask2_macro_f1": 0.7013178914513428,
+      "subtask3_macro_f1": 0.6136711401377913
+    },
+    "tel": {
+      "subtask1_macro_f1": 0.7456896551724138,
+      "subtask2_macro_f1": 0.6079845322358188,
+      "subtask3_macro_f1": 0.5732345614876914
+    },
+    "tur": {
+      "subtask1_macro_f1": 0.7560606060606061,
+      "subtask2_macro_f1": 0.6457302610985005,
+      "subtask3_macro_f1": 0.6006009438370273
+    },
+    "urd": {
+      "subtask1_macro_f1": 0.7021484757171369,
+      "subtask2_macro_f1": 0.4587905866584701,
+      "subtask3_macro_f1": 0.48676152082836627
+    },
+    "zho": {
+      "subtask1_macro_f1": 0.44885945548197204,
+      "subtask2_macro_f1": 0.4804038468083093,
+      "subtask3_macro_f1": 0.550061685207606
+    }
+  }
+}

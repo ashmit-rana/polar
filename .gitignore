@@ -1,0 +1,22 @@
+# Python Virtual Environment
+.venv/
+env/
+venv/
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# macOS system files
+.DS_Store
+
+# Heavy deep learning weights (store locally)
+models/test_checkpoint/model_weights.pt
+*.pt
+*.safetensors
+*.bin
+
+# Submodule / data git
+data-public/.git/

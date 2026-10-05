@@ -1,0 +1,55 @@
+{
+  "model_name": "xlm-roberta-base",
+  "max_length": 128,
+  "thresholds": {
+    "subtask1": [
+      0.1
+    ],
+    "subtask2": [
+      0.1,
+      0.1,
+      0.1,
+      0.1,
+      0.1
+    ],
+    "subtask3": [
+      0.1,
+      0.1,
+      0.1,
+      0.1,
+      0.1,
+      0.1
+    ]
+  },
+  "best_metrics": {
+    "subtask1_macro_f1": 0.3211194991714233,
+    "subtask1_f1_pos": 0.0,
+    "subtask1_f1_neg": 0.6422389983428466,
+    "subtask1_binary_f1": 0.0,
+    "subtask2_political_macro_f1": 0.42037415500707437,
+    "subtask2_political_f1": 0.0,
+    "subtask2_racial/ethnic_macro_f1": 0.45651533018867924,
+    "subtask2_racial/ethnic_f1": 0.0,
+    "subtask2_religious_macro_f1": 0.47305988280691724,
+    "subtask2_religious_f1": 0.0,
+    "subtask2_gender/sexual_macro_f1": 0.4779838595497664,
+    "subtask2_gender/sexual_f1": 0.0,
+    "subtask2_other_macro_f1": 0.44871411483253587,
+    "subtask2_other_f1": 0.0,
+    "subtask2_macro_f1": 0.45532946847699457,
+    "subtask3_stereotype_macro_f1": 0.3973484109962956,
+    "subtask3_stereotype_f1": 0.0,
+    "subtask3_vilification_macro_f1": 0.4085342518178339,
+    "subtask3_vilification_f1": 0.0,
+    "subtask3_dehumanization_macro_f1": 0.4692651098901099,
+    "subtask3_dehumanization_f1": 0.0,
+    "subtask3_extreme_language_macro_f1": 0.43820428934932754,
+    "subtask3_extreme_language_f1": 0.0,
+    "subtask3_lack_of_empathy_macro_f1": 0.4482327740092824,
+    "subtask3_lack_of_empathy_f1": 0.0,
+    "subtask3_invalidation_macro_f1": 0.4547539248544717,
+    "subtask3_invalidation_f1": 0.0,
+    "subtask3_macro_f1": 0.4360564601528869,
+    "overall_mean_macro_f1": 0.40416847593376826
+  }
+}
