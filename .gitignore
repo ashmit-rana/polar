@@ -18,5 +18,11 @@ models/test_checkpoint/model_weights.pt
 *.safetensors
 *.bin
 
+# Local reports and personal learning notes (not pushed to GitHub)
+local_reports/
+*.pdf
+PROJECT_REPORT.md
+generate_pdf_report.py
+
 # Submodule / data git
 data-public/.git/
